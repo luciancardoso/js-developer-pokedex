@@ -46,7 +46,7 @@
 }
 
 .detail-box {
-    background-image: url('/assets/img/pngegg.png');
+    background-image: url('./assets/img/pngegg.png');
     background-repeat: no-repeat;
     background-size: 40%;
     background-position: 205px 20px;
